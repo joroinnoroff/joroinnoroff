@@ -12,7 +12,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joroinnoroff&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/joroinnoroff)  
+
 
 <!--
 **joroinnoroff/joroinnoroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
