@@ -1,5 +1,6 @@
 
-### Hi there 👋, Hi My Name is Jorgen
+### Hi there 👋
+My Name is Jorgen
 #### Front-End Developer 
 Welcome to my GitHub Profile. 
 
