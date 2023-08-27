@@ -6,7 +6,8 @@ Welcome to my GitHub Profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning Front-End Development & Design At NorOff 
+- 🌱 I’m currently learning Front-End Development & Design At NorOff
+- Based in Oslo
 Portifolio Website:https://delightful-marzipan-737005.netlify.app/
 
 
