@@ -8,7 +8,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Front-End Development & Design At NorOff
 - Based in Oslo
-Portifolio Website:https://delightful-marzipan-737005.netlify.app/
+- Portifolio Website:https://delightful-marzipan-737005.netlify.app/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joroinnoroff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oinojorgen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://splendid-cendol-445c5a.netlify.app/)  
