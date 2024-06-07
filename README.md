@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**joroinnoroff/joroinnoroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+**Welcome to my profile**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on  www.gatestemmer.no
+- 🌱 I’m currently learning Front end & design at Noroff Oslo
+ 
+- 💬 Ask me about what ever is on your mind
+- 📫 How to reach me:
+  ![image](https://github.com/joroinnoroff/joroinnoroff/assets/112621392/43493bff-677f-4930-ac45-e7709d9358b0)
+  https://www.instagram.com/jorgenoino/
+  ![image](https://github.com/joroinnoroff/joroinnoroff/assets/112621392/a9ade0e1-bcbb-46f5-9a6a-7011d82b6d42)
+  oinojorgen@gmail.com
+ 
+ 
