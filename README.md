@@ -19,4 +19,6 @@
   oinojorgen@gmail.com
  
  ## PORTIFOLIO
-https://www.oino.no/
+ 
+
+[go](https://www.oino.no/){:target="_blank"
