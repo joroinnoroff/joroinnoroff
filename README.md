@@ -5,7 +5,7 @@
 **Welcome to my profile**
 
 - 🔭 I’m currently working on  www.gatestemmer.no
-- 🌱 I’m currently learning Front end & design at Noroff Oslo
+- 🌱 I’m currently learning Front end & mobile development at Høyskolen Kristiania
  
 - 💬 Ask me about what ever is on your mind
 - 📫 How to reach me:
@@ -19,4 +19,4 @@
   oinojorgen@gmail.com
  
  ## PORTIFOLIO
-https://oino.vercel.app/
+https://www.oino.no/
