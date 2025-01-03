@@ -21,4 +21,4 @@
  ## PORTIFOLIO
  
 
-[go](https://www.oino.no/){:target="_blank"
+ https://www.oino.no/
