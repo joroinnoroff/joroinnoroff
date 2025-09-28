@@ -4,7 +4,7 @@
 
 **Welcome to my profile**
 
-- 🔭 I’m currently working on  www.gatestemmer.no
+- 🔭 I’m currently working on  https://by-siv.no/
 - 🌱 I’m currently learning Front end & mobile development at Høyskolen Kristiania
  
 - 💬 Ask me about what ever is on your mind
