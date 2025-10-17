@@ -21,4 +21,4 @@
  ## PORTIFOLIO
  
 
- https://www.oino.no
+ https://oino.no
